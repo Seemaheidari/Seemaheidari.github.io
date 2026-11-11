@@ -1,6 +1,6 @@
-# Seemaheidari.github.io
+# Economist
 
-## PROFESSIONAL SUMMARY
+## Professional Summary
 Economist and financial analyst who pulls financial information together from many entities, and reports it to a standard regulators accept. At PwC Canada, I prepare transfer pricing documentation for multinational groups, reconcile intercompany figures to the underlying financial statements, and draft submissions to the Tax Authorities, automating data cleaning and validation with Excel. I Previously maintained the monthly economic indicators, databases and Power BI dashboards at the Saskatoon Regional Economic Development Authority.
 
 ## CORE COMPETENCIES
